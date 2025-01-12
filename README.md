@@ -13,7 +13,8 @@ Welcome to the **Pizza OrderBot** project! This chatbot uses the **Google Gemini
 ## 🎓 Demo Video
 
 Check out the demo video of the Pizza OrderBot in action!  
-[**Watch Demo Video**](<Insert Your Demo Video Link Here>)
+
+[**Watch Demo Video**](https://github.com/user-attachments/assets/daa610e0-6e9a-4864-a68b-647c0eb38120)
 
 ## 🚀 Getting Started
 
