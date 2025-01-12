@@ -31,8 +31,8 @@ To run this project locally, you'll need:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/<Your-GitHub-Username>/Pizza-OrderBot.git
-    cd Pizza-OrderBot
+    git clone https://github.com/athul-2003/PizzaOrderBot.git
+    cd PizzaOrderBot
     ```
 
 2. **Install dependencies**:
@@ -60,7 +60,7 @@ To run this project locally, you'll need:
     Start the Streamlit app to launch the chatbot in your browser:
 
     ```bash
-    streamlit run app.py
+    streamlit run PizzaBot.py
     ```
 
 5. Open your browser and go to `http://localhost:8501` to interact with the Pizza OrderBot!
