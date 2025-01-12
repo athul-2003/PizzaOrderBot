@@ -114,7 +114,7 @@ The bot walks users through the following steps:
 
 ## 💬 Contact
 
-If you have any questions or need help with the project, feel free to reach out to me on LinkedIn: [H Athulkrishnan](https://www.linkedin.com/in/athulkrishnan/).
+If you have any questions or need help with the project, feel free to reach out to me on LinkedIn: [H Athulkrishnan](https://www.linkedin.com/in/h-athulkrishnan/).
 
 ---
 
